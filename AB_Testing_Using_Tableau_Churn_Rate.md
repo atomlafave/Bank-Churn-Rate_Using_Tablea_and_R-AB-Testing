@@ -228,6 +228,7 @@ ggplot
            theme(legend.position="none", text=element_text(size=13), plot.title =
                    element_text(hjust = 0.5))
 ```
+![](https://github.com/atomlafave/images/blob/main/distro_by_age.PNG)
 
 ![](AB_Testing_Using_Tableau_Churn_Rate_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
