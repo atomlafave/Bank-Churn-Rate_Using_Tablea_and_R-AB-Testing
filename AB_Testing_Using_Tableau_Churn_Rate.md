@@ -241,8 +241,8 @@ First, we’ll map where the customers are from by region.
 
 ![](https://github.com/atomlafave/images/blob/main/bank_cust_region.PNG)
 
-We can see that most of the customer’s are from France and Germany and
-Spain have just about the same amount of customer’s from this sample.
+We can see that most of the customer’s are from France. Germany and
+Spain coincidentally have the same amount of customer’s from this sample.
 
 Now we can do AB testing. The dependent variable that we are examining
 is whether the person left the bank or not. We’ll first look at gender.
