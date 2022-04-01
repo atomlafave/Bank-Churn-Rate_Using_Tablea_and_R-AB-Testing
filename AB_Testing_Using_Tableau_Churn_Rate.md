@@ -227,6 +227,7 @@ ggplot
                    element_text(hjust = 0.5))
 ```
 ![](https://github.com/atomlafave/images/blob/main/distro_by_age.PNG)
+
 Findings: We see that older adults above age 55 are more likely to leave
 the bank than those between the ages of 18-55.
 
