@@ -227,6 +227,8 @@ ggplot
                    element_text(hjust = 0.5))
 ```
 ![](https://github.com/atomlafave/images/blob/main/distro_by_age.PNG)
+Findings: We see that older adults above age 55 are more likely to leave
+the bank than those between the ages of 18-55.
 
 Lets take a look at a few Tableau visualizations breaking the data down.
 
@@ -238,9 +240,6 @@ We can see that most of the customer’s are from France. Germany and
 Spain coincidentally have the same amount of customer’s from this sample.
 
 ![](AB_Testing_Using_Tableau_Churn_Rate_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
-
-Findings: We see that older adults above age 55 are more likely to leave
-the bank than those between the ages of 18-55.
 
 Now we can do AB testing. The dependent variable that we are examining
 is whether the person left the bank or not. We’ll first look at gender.
