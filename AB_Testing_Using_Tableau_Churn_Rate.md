@@ -24,9 +24,7 @@ Germany. The bank selected 10,000 customers and took a screen shot of
 the data and later in 6 months took another screen shot with a column
 identifying which customers left.
 
-The data used in this case study can be found in the
-AB-Testing-Churn-Rate github repository folder under the
-Churn-Modelling-Bank_Data.xlsx file. It was 3rd party sourced from Data
+The data can be found in this github repository. It was 3rd party sourced from Data
 Science A-Z by Kirill Eremenko on Udemy.com.
 
 Limitations and Assumptions: Not knowing the original source of the data
@@ -230,11 +228,6 @@ ggplot
 ```
 ![](https://github.com/atomlafave/images/blob/main/distro_by_age.PNG)
 
-![](AB_Testing_Using_Tableau_Churn_Rate_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
-
-Findings: We see that older adults above age 55 are more likely to leave
-the bank than those between the ages of 18-55.
-
 Lets take a look at a few Tableau visualizations breaking the data down.
 
 First, we’ll map where the customers are from by region.
@@ -243,6 +236,11 @@ First, we’ll map where the customers are from by region.
 
 We can see that most of the customer’s are from France. Germany and
 Spain coincidentally have the same amount of customer’s from this sample.
+
+![](AB_Testing_Using_Tableau_Churn_Rate_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+
+Findings: We see that older adults above age 55 are more likely to leave
+the bank than those between the ages of 18-55.
 
 Now we can do AB testing. The dependent variable that we are examining
 is whether the person left the bank or not. We’ll first look at gender.
