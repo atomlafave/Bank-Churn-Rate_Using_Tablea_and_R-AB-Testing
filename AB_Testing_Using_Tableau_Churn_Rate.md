@@ -21,8 +21,8 @@ meant to showcase the use of Tableau.
 The data used in this case study is from a sample of 10,000 customers
 from a bank in Europe that covers the regions of France, Spain, and
 Germany. The bank selected 10,000 customers and took a screen shot of
-the data and later in 6 months took another screen shot with a column
-identifying which customers left.
+the customer data, then 6 months later took a screenshot of the same sample, this 
+time with a column identifying which customers left.
 
 The data can be found in this github repository. It was 3rd party sourced from Data
 Science A-Z by Kirill Eremenko on Udemy.com.
